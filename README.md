@@ -9,7 +9,7 @@ Nice to meet you. Let me introduce my profile in a few lines.
     <li>📮 You can contact me here : <b>rodriguez.98.alvaro@gmail.com</b>
   </ul>
 Passionate Game Developer, making games is my goal.
-<br>For a few years I've been focusing on being capable of creating a videogame by my own that's why i'm studying 3D Animation right now.
+<br>For a few years I've been focusing on being capable of creating a videogame on my own that's why i'm studying 3D Animation right now.
 </p>
 🌐 You can find me on :
 <p align="center">

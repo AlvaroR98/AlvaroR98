@@ -107,6 +107,30 @@ Passionate Game Developer making games are my goal.
       </a>
       <br>Unity
     </td>
+     <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/3dsMax.png?raw=true" width="48" height="48" alt="3ds Max" />
+      </a>
+      <br>3ds Max
+    </td>
+     <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/Blender.webp?raw=true" width="48" height="48" alt="Blender" />
+      </a>
+      <br>Blender
+    </td>
+     <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/Krita.jpg?raw=true" width="48" height="48" alt="Krita" />
+      </a>
+      <br>Krita
+    </td>
+     <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/Photoshop.webp?raw=true" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
   </tr>
 </table>
 </p>

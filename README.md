@@ -11,7 +11,7 @@ Nice to meet you. Let me introduce my profile in a few lines.
 <br>For a few years I've been focusing on being capable of creating a videogame on my own, now I'm focusing in AI to expand my knowledge in this sector.
 </p>
 🌐 You can find me on :
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/alvaro-rodriguez-andres/" target="_blank"> <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/LinkedIn.webp?raw=true" width="5%"></a>
 </p>
 🖥️ My tech stacks :

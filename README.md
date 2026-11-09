@@ -1,15 +1,14 @@
-Hi everyone, i'm Álvaro Rodríguez
+Hi everyone, I'm Álvaro Rodríguez
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 Nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>Programmer and Game Desginer</b></li>
     <li>📍 Based in <b>Málaga</b></li>
-    <li>🏢 I'm studying <b>3D Animation</b></li>
+    <li>🏢 I'm studying <b>Big Data and Artificial intelligence</b></li>
     <li>📮 You can contact me here : <b>rodriguez.98.alvaro@gmail.com</b>
   </ul>
-Passionate Game Developer, making games is my goal.
-<br>For a few years I've been focusing on being capable of creating a videogame on my own that's why I'm studying 3D Animation right now.
+<br>For a few years I've been focusing on being capable of creating a videogame on my own, now I'm focusing in AI to expand my knowledge in this sector.
 </p>
 🌐 You can find me on :
 <p align="center">

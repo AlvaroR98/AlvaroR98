@@ -112,7 +112,7 @@ Nice to meet you. Let me introduce my profile in a few lines.
       </a>
       <br>3ds Max
     </td>
-     <td align="center" width="110">
+     <!-- <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/Blender.webp?raw=true" width="48" height="48" alt="Blender" />
       </a>
@@ -123,7 +123,7 @@ Nice to meet you. Let me introduce my profile in a few lines.
         <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/Krita.jpg?raw=true" width="48" height="48" alt="Krita" />
       </a>
       <br>Krita
-    </td>
+    </td> -->
      <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/AlvaroR98/AR98/blob/main/Img/Photoshop.webp?raw=true" width="48" height="48" alt="Photoshop" />
